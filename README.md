@@ -12,11 +12,11 @@ Estudante da FATEC - Prof° Jessen Vidal de São José dos Campos, cursando o 5�
 Clique no link correspondente para acessar as informações do projeto.
 
 ### Em 2020 - 2
-* Projeto: [RoyaltyDev]()
+* Projeto: [RoyaltyDev](https://github.com/elias31072002/trabalho_graduacao_TG/tree/main/RoyaltyDev)
 
 
 ### Em 2021 - 1
-*  Projeto: [ProjetoGSW]()
+*  Projeto: [ProjetoGSW](https://github.com/elias31072002/trabalho_graduacao_TG/tree/main/ProjetoGSW)
 
 
 ### Em 2021 - 2
