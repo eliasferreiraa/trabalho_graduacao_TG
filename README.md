@@ -6,7 +6,7 @@
     </td>
     
 ## 📝 Introdução
-Estudante da FATEC - Prof° Jessen Vidal de São José dos Campos, cursando o 5° Semestre do curso de Análise e Desenvolvimento de Sistemas, formado no curso ténico de Redes de Computadores na ETEC - Cônego José Bento de Jacareí, atualmente procurando estagiar na área de Desenvolvimento de Sistemas.
+Estudante da FATEC - Prof° Jessen Vidal de São José dos Campos, cursando o 5° Semestre do curso de Análise e Desenvolvimento de Sistemas, formado no curso ténico de Redes de Computadores na ETEC - Cônego José Bento de Jacareí, atualmente procurando estagiar na área de TI.
 
 ## Projetos que eu participei:
 Clique no link correspondente para acessar as informações do projeto.
@@ -42,3 +42,6 @@ Clique no link correspondente para acessar as informações do projeto.
 
 ### Meus Principais Conhecimentos
 Possuo conhecimento em HTML e CSS, sei programar em Python, C e C++. Consigo trabalhar com Flask e Django juntamente com PostgreSQL, MySQL e MongoDB. Como método de organização costumo utilizar Git/GitHub e metodologia Scrum.
+
+
+### Contato
