@@ -1,7 +1,7 @@
 # 2° semestre de 2020
 ## Educa Help
 
-<h1 ><img src = "/imagens/fatec-educa.png" width="800" height="200" /></h1>
+<h1 ><img src = "https://github.com/RoyaltyDev/Projeto_integrador_2020-2/blob/master/imagens/fatec-educa.png" width="800" height="200" /></h1>
 
 
 ## Projeto e Parceiro Acadêmico
