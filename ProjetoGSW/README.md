@@ -57,11 +57,12 @@ A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exe
 Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 <br>
 
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4nAmib81PtEdmLhV8wGMFq2YyFnG5jGRaw&usqp=CAU" width="45" height="50" /> 
+<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="180" height="50" /> 
 
-O site Draw.io foi utilizado para desenhar o diagrama caso de uso do projeto, nesse diagrama é mostrado o que o usuário é capaz de utilizar no sistema e também o que o administrador pode gerenciar.
+Para armazenar os dados dos projetos assim como os usuarios e senhas cadastrados, foi utilizado o banco de dados PostgreSQL.
 
-O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.
+PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+
 <br>
 
 <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="70" height="40" /> 
@@ -78,35 +79,56 @@ Juntamente com a linguagem HTML o CSS foi utilizado para estilizar, alterando co
 Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
 <br>
 
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="70" height="40" /> 
+<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="70" height="40" /> 
 
-Para o desenvolvimento do back-end foi utilizado o Django, com foco na configuração de rotas de páginas e envio de dados entre elas.
+Para o desenvolvimento do back-end foi utilizado o Flask, com foco na configuração de rotas de páginas e envio de dados para o banco de dados.
 
-Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view.
+Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
 <br>
 
 <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="70" height="40" /> 
 
-A linguagem escolhida para o back-end foi Python, e como descrito acima juntamente com o Django que é escrito em Python.
+A linguagem escolhida para o back-end foi Python, e como descrito acima juntamente com o Flask que é escrito em Python.
 
 Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="40" /> 
+
+A linguagem JavaScript foi utilizada para a criação dos gráficos no dashboard e também para puxar os dados da API.
+
+JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+
 
 ## Contribuições Pessoais
-Nesse projeto eu trabalhei em diversas partes de um todo, tal como desenvolvimento do protótipo no figma, dando ideias e colocando em prática na criação das telas de exemplo, como também estilizando as páginas do projeto usando o CSS, arrumando a posição e cor principalmente da barra de navegação. Atuei também no desenvolvimento das rotas das páginas utilizando o Django e Python.
+Nesse projeto eu foquei no back-end, fiquei responsável por separar os dados dos projetos por categorias como:
+
+1. Lista com apenas projeto e horas.
+2. Horas totais por projetos.
+3. Horas total de todos os projetos.
+4. Média de horas por projeto.
+5. Média de horas totais.
+6. Remoção de ID repetido dos usuários.
+7. Tasks por colaborador.
+8. Horas por colaborador.
+
+Tudo isso foi feito utilizando python, separando cada uma dessas categorias em arquivos json, para depois ser puxado esses dados no dashboard através do front-end.
+
 
 ## Hard Skills
-Desenho e aplicação de idéias do sistema: Sei fazer com ajuda.
-
-Programação em geral: Sei fazer com ajuda.
+Utilização do Flask: Sei fazer com ajuda.
 
 Utilização da plataforma GitHub e o software Git: Sei fazer com autonomia.
+
+Programação em python: Sei fazer com autonomia.
 
 
 ## Soft Skills
 Comunicação - Importante para o compartilhamento de ideias e visões futuras referente ao projeto.
 
 Foco- Ao ser atribuidas as tarefas para cada integrante foi importante cada um focar no que foi atribuido a ele.
+
+Organização- Após estudar com mais profissionalidade a metodologia Scrum, a organização foi fundamental para manter o foco da equipe em suas funções.
 
 Harmonia- Foi importante para que o grupo conseguisse se distribuir de acordo com a atividade sem que gerasse desconfiança.
 
