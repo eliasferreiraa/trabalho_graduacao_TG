@@ -40,8 +40,6 @@ O dashboard conta com um sistema de login, e com gráficos detalhando os dados d
 
 Acesse o repositório do projeto desenvolvido:
 
-<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90" height="80" /> 
-
 [ProjetoGSW](https://github.com/Time-1-ADS/ProjetoGSW)
 <br>
 <br>
