@@ -29,9 +29,9 @@ Com o sistema de login integrado o usuário tem a opção de escolher um materia
 
 Acesse o repositório do projeto desenvolvido:
 
-<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90" height="80" /> 
-
 [RoyaltyDev](https://github.com/RoyaltyDev/Projeto_integrador_2020-2)
+
+
 <br>
 <br>
 
@@ -45,12 +45,17 @@ A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exe
 
 Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 <br>
+<br>
+<br>
+
 
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4nAmib81PtEdmLhV8wGMFq2YyFnG5jGRaw&usqp=CAU" width="45" height="50" /> 
 
 O site Draw.io foi utilizado para desenhar o diagrama caso de uso do projeto, nesse diagrama é mostrado o que o usuário é capaz de utilizar no sistema e também o que o administrador pode gerenciar.
 
 O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.
+<br>
+<br>
 <br>
 
 <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="70" height="40" /> 
@@ -59,6 +64,9 @@ Para o desenvolvimento da estrutura do website (front-end) assim como suas funci
 
 HTML é uma linguagem de marcação utilizada na construção de páginas na Web.
 <br>
+<br>
+<br>
+
 
 <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="70" height="40" /> 
 
@@ -66,6 +74,9 @@ Juntamente com a linguagem HTML o CSS foi utilizado para estilizar, alterando co
 
 Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
 <br>
+<br>
+<br>
+
 
 <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="70" height="40" /> 
 
@@ -73,12 +84,15 @@ Para o desenvolvimento do back-end foi utilizado o Django, com foco na configura
 
 Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view.
 <br>
+<br>
+<br>
 
 <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="70" height="40" /> 
 
 A linguagem escolhida para o back-end foi Python, e como descrito acima juntamente com o Django que é escrito em Python.
 
 Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+
 
 
 ## Contribuições Pessoais
