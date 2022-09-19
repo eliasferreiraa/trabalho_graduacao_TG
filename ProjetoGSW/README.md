@@ -56,13 +56,16 @@ A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exe
 
 Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 <br>
+<br>
+<br>
 
 <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="180" height="50" /> 
 
 Para armazenar os dados dos projetos assim como os usuarios e senhas cadastrados, foi utilizado o banco de dados PostgreSQL.
 
 PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
-
+<br>
+<br>
 <br>
 
 <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="70" height="40" /> 
@@ -71,12 +74,16 @@ Para o desenvolvimento da estrutura do website (front-end) assim como suas funci
 
 HTML é uma linguagem de marcação utilizada na construção de páginas na Web.
 <br>
+<br>
+<br>
 
 <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="70" height="40" /> 
 
 Juntamente com a linguagem HTML o CSS foi utilizado para estilizar, alterando cores, posições e fontes nas páginas produzidas no projeto.
 
 Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
+<br>
+<br>
 <br>
 
 <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="70" height="40" /> 
@@ -85,18 +92,26 @@ Para o desenvolvimento do back-end foi utilizado o Flask, com foco na configura�
 
 Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
 <br>
+<br>
+<br>
 
 <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="70" height="40" /> 
 
 A linguagem escolhida para o back-end foi Python, e como descrito acima juntamente com o Flask que é escrito em Python.
 
 Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+<br>
+<br>
+<br>
 
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="40" /> 
 
 A linguagem JavaScript foi utilizada para a criação dos gráficos no dashboard e também para puxar os dados da API.
 
 JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+<br>
+<br>
+<br>
 
 
 
