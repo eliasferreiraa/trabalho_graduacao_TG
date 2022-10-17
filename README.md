@@ -20,8 +20,7 @@ Clique no link correspondente para acessar as informações do projeto.
 
 
 ### Em 2021 - 2
-🚧  Sem Link!  🚧
-* Projeto: [ProjetoNESS]()
+* Projeto: [ProjetoNESS](https://github.com/Time-1-ADS/PROJETO-NESS/)
 
 
 ### Em 2022 - 1
