@@ -2,7 +2,7 @@
 
 ## Projeto NESS
 
-<h1 align="center" ><img src = "https://github.com/elias31072002/teste/blob/main/Imagens/gswdash.PNG" width="800" height="300" /></h1>
+<h1 align="center" ><img src = "https://github.com/elias31072002/teste/blob/main/Imagens/ness.PNG" width="800" height="300" /></h1>
 
 
 ## Projeto e Parceiro Acadêmico
