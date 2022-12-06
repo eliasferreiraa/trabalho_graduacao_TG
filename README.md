@@ -24,13 +24,11 @@ Clique no link correspondente para acessar as informações do projeto.
 
 
 ### Em 2022 - 1
-🚧  Sem Link!  🚧
-* Projeto: [Cluster-8/eSoja]()
+* Projeto: [Cluster-8/eSoja](https://github.com/elias31072002/trabalho_graduacao_TG/tree/main/eSoja)
 
 
 ### Em 2022 - 2
-🚧  Sem Link!  🚧
-* Projeto: [AloCidadão]()
+* Projeto: [AloCidadão](https://github.com/elias31072002/trabalho_graduacao_TG/tree/main/AloCidad%C3%A3o)
 
 
 ### Em 2023 - 1

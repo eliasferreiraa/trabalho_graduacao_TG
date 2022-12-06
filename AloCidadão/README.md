@@ -61,32 +61,31 @@ Acesse o repositório do projeto desenvolvido:
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
-        <td align="center">[Figma]  Elaboração do protótipo interativo, com o propósito de desenvolver ideias e realizar a simulação de funcionalidades.
-        Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.</td>
+        <td align="center">[Figma]  Elaboração do protótipo interativo, com o propósito de desenvolver ideias e realizar a simulação de funcionalidades. Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"</td>
-        <td align="center">[Flask] Framework empregado para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio no nosso servidor.</td>
+        <td align="center">[Flask] Framework empregado para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio no nosso servidor. Flask é um pequeno framework web escrito em Python.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-        <td align="center">[JavaScript] Implementação de métodos para viabilizar uma interface mais dinâmica e providenciar a comunicação com o servidor.</td>
+        <td align="center">[JavaScript] Implementação de métodos para viabilizar uma interface mais dinâmica e providenciar a comunicação com o servidor. JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
-        <td align="center">[MongoDB]Utilizado para armazenar as imagens das ocorrências cadastradas.</td>
+        <td align="center">[MongoDB]Utilizado para armazenar as imagens das ocorrências cadastradas. MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
-        <td align="center">[PostgreSQL] Gerenciar e manipular os demais dados necessários para o funcionamento do aplicativo, como armazenamento de usuários e ocorrências.</td>
+        <td align="center">[PostgreSQL] Gerenciar e manipular os demais dados necessários para o funcionamento do aplicativo, como armazenamento de usuários e ocorrências. PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
-        <td align="center">[Python] Linguagem de programação utilizada no servidor, juntamente ao framework Flask.</td>
+        <td align="center">[Python] Linguagem de programação utilizada no servidor, juntamente ao framework Flask. Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
-        <td align="center">[React Native] Framework que possibilita o desenvolvimento mobile, fornecendo toda a estrutura para a criação de um aplicativo. Realizamos todas às funcionalidades visuais do Alô Cidadão.</td>
+        <td align="center">[React Native] Framework que possibilita o desenvolvimento mobile, fornecendo toda a estrutura para a criação de um aplicativo. Realizamos todas às funcionalidades visuais do Alô Cidadão. React Native é uma biblioteca Javascript criada pelo Facebook.</td>
     </tr>
 </table>
 
