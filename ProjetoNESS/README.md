@@ -149,8 +149,8 @@ JavaScript é uma linguagem de programação interpretada estruturada, de script
 
 ## Contribuições Pessoais
 Nesse projeto eu trabalhei como o Scrum Master da equipe, fiquei responsável por juntamente com a equipe definir o que seria entregue em cada sprint, a partir disso, atribuindo as tarefas para cada integrante da equipe.
-Fiquei responsável também por atribuir um tempo para cada tarefa, e a partir disso criar um Burndown mostrando toda a trajetória da equipe durante a sprint.
-Como Scrum Master eu também trabalhei na escrita do README de cada sprint.
+Fiquei responsável também por atribuir um tempo para cada tarefa, e a partir disso, usando a ferramenta Excel, criar um Burndown mostrando toda a trajetória da equipe durante a sprint.
+Como Scrum Master eu também trabalhei, diretamente no github,  na escrita do README de cada sprint.
 
 
 ## Hard Skills
