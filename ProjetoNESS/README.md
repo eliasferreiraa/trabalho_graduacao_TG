@@ -9,11 +9,11 @@
 O nomeado Aprendizagem por Projeto Integrador oferecido pela Faculdade de Tecnologia de São José dos Campos, FATEC - Prof° Jessen vidal tem como objetivo fazer com que os alunos acompanhem a evolução e crescimento do mercado atual e aprendam a agir com profissionalidade nessas mudanças.
 
 ## Escopo da Solução
-O cliente (Ionic Health) solicitou um sistema CRM para fins de gerenciar o relacionamento de vendas com o cliente.
+A empresa parceira (Ionic Health) solicitou um sistema CRM para fins de gerenciar o relacionamento de vendas com o cliente.
 
 A equipe Time-1-ADS colocou como objetivo o desenvolvimento de um sistema CRM no qual tanto o gerenciamento de vendas quanto o contato com o cliente seja possível na mesma plataforma.
 
-O cliente abordou alguns requisitos para o desenvolvimento do sistema, sendo eles:
+A empresa parceira abordou alguns requisitos para o desenvolvimento do sistema, sendo eles:
 
 1. Interface Personalizável;
 2. Cadastro e Acesso de usuário ou funcionário;
@@ -85,7 +85,7 @@ Acesse o repositório do projeto desenvolvido:
 
 <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70" height="40"/> 
 
-A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exemplos de telas e aplicando as idéias seguindo os requisitos abordados pelo cliente.
+A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exemplos de telas e aplicando as idéias seguindo os requisitos abordados pela empresa parceira.
 
 Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 <br>
