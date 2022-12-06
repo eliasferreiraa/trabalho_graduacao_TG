@@ -20,7 +20,7 @@ Clique no link correspondente para acessar as informações do projeto.
 
 
 ### Em 2021 - 2
-* Projeto: [ProjetoNESS](https://github.com/Time-1-ADS/PROJETO-NESS/)
+* Projeto: [ProjetoNESS](https://github.com/elias31072002/trabalho_graduacao_TG/tree/main/ProjetoNESS)
 
 
 ### Em 2022 - 1
