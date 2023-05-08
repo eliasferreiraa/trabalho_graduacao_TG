@@ -59,44 +59,30 @@ Acesse o repositório do projeto desenvolvido:
 <br>
 
 
-## Tecnologias Utilizadas
-<br>
+<h2>🛠 Ferramentas utilizadas</h2>
+<table>
+    <tr>
+        <th align="center">Tecnologias</th>
+        <th align="center">Finalidade</th>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
+        <td align="center">[Figma]  Elaboração do protótipo interativo, com o propósito de desenvolver ideias e realizar a simulação de funcionalidades. Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" width="40" height="40"</td>
+        <td align="center">[PostgreSQL] Para armazenar os dados das propriedades, dos talhões, assim como os usuarios e senhas cadastrados, foi utilizado o banco de dados PostgreSQL. PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
+        <td align="center">[React Native] Framework que possibilita o desenvolvimento mobile, fornecendo toda a estrutura para a criação de um aplicativo. Realizamos todas às funcionalidades visuais do eSoja. React Native é uma biblioteca Javascript criada pelo Facebook.</td>
+    </tr>
+      <tr>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="40" height="40"/></td>
+        <td align="center">[Nest.js] Para o desenvolvimento do back-end foi utilizado o NestJS, com foco na configuração de rotas das páginas do aplicativo, a integração com o front-end e envio de dados para o banco de dados. Nest.js é um framework node.js progressivo feito para criar aplicações de backend eficientes, escaláveis e confiáveis.</td>
+    </tr>
+</table>
 
-<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70" height="40"/> 
-
-A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exemplos de telas e aplicando as idéias seguindo os requisitos abordados pela empresa parceira.
-
-Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
-<br>
-<br>
-<br>
-
-<img src = "https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" width="180" height="50" /> 
-
-Para armazenar os dados das propriedades, dos talhões, assim como os usuarios e senhas cadastrados, foi utilizado o banco de dados PostgreSQL.
-
-PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
-<br>
-<br>
-<br>
-
-<img src = "https://camo.githubusercontent.com/0b9bce580a369d91352cf37397f1e079ef104531fc0bc53a145deb8f43fca535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" width="180" height="50" /> 
-
-Para o desenvolvimento da estrutura do aplicativo (front-end) assim como suas funcionalidades visuais foi usado a linguagem React Native.
-
-O React Native é um framework baseado no já aclamado React, desenvolvido pela equipe do Facebook, que possibilita o desenvolvimento de aplicações mobile, tanto para Android, como para iOS, utilizando apenas Javascript.
-<br>
-<br>
-<br>
-
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="70" height="40" /> 
-
-Para o desenvolvimento do back-end foi utilizado o NestJS, com foco na configuração de rotas das páginas do aplicativo, a integração com o front-end e envio de dados para o banco de dados.
-
-Nest.js é um framework node.js progressivo feito para criar aplicações de backend eficientes, escaláveis e confiáveis.
-<br>
-<br>
-<br>
 
 
 ## Contribuições Pessoais
