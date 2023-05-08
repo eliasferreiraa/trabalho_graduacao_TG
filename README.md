@@ -6,7 +6,7 @@
     </td>
     
 ## 📝 Introdução
-Estudante da FATEC - Prof° Jessen Vidal de São José dos Campos, cursando o 5° Semestre do curso de Análise e Desenvolvimento de Sistemas, formado no curso ténico de Redes de Computadores na ETEC - Cônego José Bento de Jacareí, atualmente procurando estagiar na área de TI.
+Estudante da FATEC - Prof° Jessen Vidal de São José dos Campos, cursando o 6° Semestre do curso de Análise e Desenvolvimento de Sistemas, formado no curso ténico de Redes de Computadores na ETEC - Cônego José Bento de Jacareí, atualmente procurando estagiar na área de TI.
 
 ## Projetos que eu participei:
 Clique no link correspondente para acessar as informações do projeto.
@@ -33,7 +33,7 @@ Clique no link correspondente para acessar as informações do projeto.
 
 ### Em 2023 - 1
 🚧  Sem Link!  🚧
-*  Projeto: []()
+*  Projeto: [MoneyMind]()
 
 
 
