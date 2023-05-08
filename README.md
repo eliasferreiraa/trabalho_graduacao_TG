@@ -33,7 +33,7 @@ Clique no link correspondente para acessar as informações do projeto.
 
 ### Em 2023 - 1
 🚧  Sem Link!  🚧
-*  Projeto: [MoneyMind]()
+*  Projeto: [MoneyMind](https://github.com/eliasferreiraa/trabalho_graduacao_TG/tree/main/MoneyMind)
 
 
 
