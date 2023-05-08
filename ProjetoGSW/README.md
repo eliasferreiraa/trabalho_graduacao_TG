@@ -9,7 +9,7 @@
 O nomeado Aprendizagem por Projeto Integrador oferecido pela Faculdade de Tecnologia de São José dos Campos, FATEC - Prof° Jessen vidal tem como objetivo fazer com que os alunos acompanhem a evolução e crescimento do mercado atual e aprendam a agir com profissionalidade nessas mudanças.
 
 ## Escopo da Solução
-O cliente (GSW Soluções Integradas) solicitou um Dashboard que exibirá os status e acompanhamentos dos projetos, através de diferentes fontes de dados, a partir disso, fornecê-los para o cliente.
+A empresa parceira (GSW Soluções Integradas) solicitou um Dashboard que exibirá os status e acompanhamentos dos projetos, através de diferentes fontes de dados, a partir disso, fornecê-los para o cliente.
 
 A equipe Time-1-ADS colocou como objetivo o desenvolvimento de uma aplicação que reúna as informações sobre os projetos a partir de diferentes fontes de dados, entre eles end-points fornecidos pela GSW, criação de um Dashboard para acompanhamento e andamento dos projetos.
 
