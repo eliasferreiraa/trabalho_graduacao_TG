@@ -1,53 +1,38 @@
-### 2° Semestre de 2022
+### 1° Semestre de 2023
 
-## AlôCidadão
+## MoneyMind
 
 ## Projeto e Parceiro Acadêmico
 O nomeado Aprendizagem por Projeto Integrador oferecido pela Faculdade de Tecnologia de São José dos Campos, FATEC - Prof° Jessen vidal tem como objetivo fazer com que os alunos acompanhem a evolução e crescimento do mercado atual e aprendam a agir com profissionalidade nessas mudanças.
 
 ## Escopo da Solução
-Nesse semestre o projeto não foi realizado com uma parceria externa e sim interna, com um professor da própria Fatec. O cliente interno solicitou um aplicativo que permita o usuário cadastrar uma ocorrência contendo algum problema de manutenção que tenha ocorrido no município. O mesmo usuário, poderá ver todas as ocorrências cadastradas por outros usuários.
+Nesse semestre o projeto foi realizado com uma empresa parceira (JP Morgan). A empresa parceira solicitou uma ferramenta de comparação de preços usando os dados fornecidos por meio do Open Finance.
 
-A equipe colocou como objetivo fornecer um aplicativo para receber as demandas de obras e manutenção, permitindo uma solicitação mais detalhada e visual realizada pelo solicitante. A solução proposta permite que o cidadão realize a solicitação de obras/manutenção inserindo fotos, endereço ou geolocalização, além da descrição do problema. 
+A equipe colocou como objetivo desenvolver uma ferramenta de comparação de preços que utiliza os dados fornecidos pelo Open Finance, e para que esses dados sejam apresentados de maneira intuitiva e fluida para o usuário.
 
 A equipe separou as principais funcionalidades do aplicativo, sendo elas:
 
-1. Cadastro da solicitação;
-2. Visualização da relação das solicitações de serviços do município;
-3. Relação de obras em execução no município;
-4. Chatbot para soluções de dúvidas do aplicativo.
+1. Um painel para verificar as tarifas de produtos/serviços nas seguintes categorias: Bancos, produtos/serviços, moedas, taxas, faixa, taxas;
+2. Um painel de classificação que contém as seguintes categorias: banco com as menores e maiores taxas; linha do tempo da média de uma tarifa com tendência; os cinco principais bancos com as menores taxas durante um período;
+3. Uma ferramenta de comparação de preços de tarifas onde o usuário pode comparar os preços de: produtos/serviços, bancos e moedas.
 
-Foi então desenvolvido um sistema onde o usuário possa cadastrar uma ocorrência de forma pública ou anônima, visualizar as ocorrências de outros usuários e também possa cadastrar uma conta para realizar o login no aplicativo.
 
-# Cadastro de Ocorrência
-<h1 align="center"> <img src = "https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega01.gif"/></h1>
+Foi então desenvolvido um sistema onde o usuário possa comparar os preços dos bancos, serviços e taxas.
+# Tela Dashboard
+<h1 align="center"> <img src = "https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint1.gif"/></h1>
 
-Nessa tela, o usuário poderá cadastrar uma nova ocorrência.
+Nessa tela, o usuário poderá visualizar os bancos com as maiores e menores tarifas.
 
-# Tela de Cadastro, Login, Listagem de Solicitações e Chatbot.
-<h1 align="center"> <img src = "https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega02.gif"/></h1>
+# Painel.
+<h1 align="center"> <img src = "https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/sprint2.gif"/></h1>
 
-Resumo da sequência de telas:
-Cadastro: O usuário irá criar uma nova conta na aplicação;
-Login: O usuário irá usar a conta criada para acessar a aplicação;
-Listagem de Solicitações: O usuário irá ver todas as solicitações que ele já cadastrou;
-Chatbot: Um chat com um bot programado para responder perguntas do usuário caso ele tenha alguma dúvida sobre o uso da aplicação.
-
-# Login Social
-<h1 align="center"> <img src = "https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/entrega03_google.gif"/></h1>
-
-O usuário poderá também fazer acesso à aplicação utilizando sua própria conta Google.
-
-# Tela de Obras
-<h1 align="center"> <img src = "https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/entrega03_padrao.gif"/></h1>
-
-Nesta tela, o usuário poderá ver todas as obras cadastradas por diversos usuários da aplicação, podendo ver os status da obra, se ela está em andamento, em aberto ou concluída.
+Nessa tela o usuário poderá visualizar a taxa mínima para cada serviço bancário.
 
 <br>
 
 Acesse o repositório do projeto desenvolvido:
 
-[AlôCidadão](https://github.com/ThomasPalma1/FatecAPI-05)
+[MoneyMind](https://github.com/Barbara-BB/FatecAPI-06)
 <br>
 <br>
 
@@ -56,43 +41,50 @@ Acesse o repositório do projeto desenvolvido:
 
 <table>
     <tr>
-        <th align="center">Tecnologias</th>
-        <th align="center">Finalidade</th>
+        <th align="center">Technologies</th>
+        <th align="center">Goal</th>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
-        <td align="center">[Figma]  Elaboração do protótipo interativo, com o propósito de desenvolver ideias e realizar a simulação de funcionalidades. Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.</td>
+        <td align="center">Elaboração do protótipo interativo, com o objetivo de desenvolver ideias e realizar a simulação das funcionalidades.</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"</td>
-        <td align="center">[Flask] Framework empregado para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio no nosso servidor. Flask é um pequeno framework web escrito em Python.</td>
+        <td align="center"><img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" width="40" height="40"</td>
+        <td align="center">Framework JavaScript usado no front-end para desenvolvimento de interfaces de usuário e aplicações de página única.</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-        <td align="center">[JavaScript] Implementação de métodos para viabilizar uma interface mais dinâmica e providenciar a comunicação com o servidor. JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.</td>
+        <td align="center"><img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">Linguagem de programação usada no front-end para ajudar no desenvolvimento de aplicativos web de grande escala.</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
-        <td align="center">[MongoDB]Utilizado para armazenar as imagens das ocorrências cadastradas. MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
+        <td align="center">Spring é um framework para Java que facilita a criação usando módulos independentes.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
-        <td align="center">[PostgreSQL] Gerenciar e manipular os demais dados necessários para o funcionamento do aplicativo, como armazenamento de usuários e ocorrências. PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.</td>
+        <td align="center">Gerenciar e manipular os dados necessários para o funcionamento da aplicação, como armazenar instituições financeiras e serviços.</td>
     </tr>
     <tr>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
-        <td align="center">[Python] Linguagem de programação utilizada no servidor, juntamente ao framework Flask. Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.</td>
+        <td align="center">Linguagem de programação usada na AI para aprendizado de máquina com análise de dados, regressão e desenvolvimento web.</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
-        <td align="center">[React Native] Framework que possibilita o desenvolvimento mobile, fornecendo toda a estrutura para a criação de um aplicativo. Realizamos todas às funcionalidades visuais do Alô Cidadão. React Native é uma biblioteca Javascript criada pelo Facebook.</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
+        <td align="center">Biblioteca de código aberto amigável ao Python para computação numérica, usada na AI para aprendizado de máquina.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
+        <td align="center">Scikit-learn é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python, usada na AI para aprendizado de máquina.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">Linguagem de programação orientada a objetos usada no lado do servidor, permitindo a criação de um método dinâmico e independente da plataforma para construir aplicativos baseados na web.</td>
     </tr>
 </table>
 
-
 ## Contribuições Pessoais
-Nesse projeto eu trabalhei como desenvolvedor. Fiquei responsável por utilizar o serviço SQLAlchemy do framework Flask, para fazer a parte do envio de dados das ocorrencias para o banco de dados. Também utilizei o Flask para o sistema de cadastro.
-Trabalhei com a integração do front-end com o back-end utilizando o React Native, e também a passagem de dados entre telas da aplicação.
+Nesse projeto eu trabalhei como desenvolvedor. Fiquei responsável por utilizar a linguagem Java e o framework Spring Boot, para criar os métodos e as rotas puxando os dados do banco de dados MariaDB, para que o front-end possa utilizar esses dados já tratados pelo back-end.
+
 
 
 ## Hard Skills
@@ -103,13 +95,13 @@ Utilização do Figma: Sei fazer com autonomia.
 
 Utilização do Visual Studio Code: Sei fazer com autonomia.
 
-Utilização da linguagem Python: Sei fazer com autonomia.
+Utilização do IntelliJ: Sei fazer com autonomia.
 
-Utilização do framework Flask: Sei fazer com autonomia.
+Utilização da linguagem Java: Sei fazer com ajuda.
 
-Utilização da linguagem React Native: Sei fazer com ajuda.
+Utilização do framework Spring Boot: Sei fazer com ajuda.
 
-Utilização do banco de dados PostgreSQL: Sei fazer com autonomia.
+Utilização do banco de dados MariaDB: Sei fazer com autonomia.
 
 ## Soft Skills
 Comunicação - Importante para o compartilhamento de ideias e visões futuras referente ao projeto.
