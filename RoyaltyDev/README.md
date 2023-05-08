@@ -36,62 +36,38 @@ Acesse o repositório do projeto desenvolvido:
 <br>
 
 
-## Tecnologias Utilizadas
-<br>
+<h2>🛠 Ferramentas utilizadas</h2>
 
-<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70" height="40"/> 
-
-A ferramenta Figma foi utilizada para fazer o protótipo do projeto, criando exemplos de telas e aplicando as idéias seguindo os requisitos abordados pelo cliente.
-
-Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
-<br>
-<br>
-<br>
-
-
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4nAmib81PtEdmLhV8wGMFq2YyFnG5jGRaw&usqp=CAU" width="45" height="50" /> 
-
-O site Draw.io foi utilizado para desenhar o diagrama caso de uso do projeto, nesse diagrama é mostrado o que o usuário é capaz de utilizar no sistema e também o que o administrador pode gerenciar.
-
-O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.
-<br>
-<br>
-<br>
-
-<img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="70" height="40" /> 
-
-Para o desenvolvimento da estrutura do website (front-end) assim como suas funcionalidades visuais foi usado a linguagem HTML.
-
-HTML é uma linguagem de marcação utilizada na construção de páginas na Web.
-<br>
-<br>
-<br>
-
-
-<img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="70" height="40" /> 
-
-Juntamente com a linguagem HTML o CSS foi utilizado para estilizar, alterando cores, posições e fontes nas páginas produzidas no projeto.
-
-Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
-<br>
-<br>
-<br>
-
-
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="70" height="40" /> 
-
-Para o desenvolvimento do back-end foi utilizado o Django, com foco na configuração de rotas de páginas e envio de dados entre elas.
-
-Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view.
-<br>
-<br>
-<br>
-
-<img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="70" height="40" /> 
-
-A linguagem escolhida para o back-end foi Python, e como descrito acima juntamente com o Django que é escrito em Python.
-
-Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+<table>
+    <tr>
+        <th align="center">Tecnologias</th>
+        <th align="center">Finalidade</th>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"></td>
+        <td align="center">[Figma]  Elaboração do protótipo interativo, com o propósito de desenvolver ideias e realizar a simulação de funcionalidades. Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4nAmib81PtEdmLhV8wGMFq2YyFnG5jGRaw&usqp=CAU" width="40" height="40"</td>
+        <td align="center">[Draw.io] O site Draw.io foi utilizado para desenhar o diagrama caso de uso do projeto, nesse diagrama é mostrado o que o usuário é capaz de utilizar no sistema e também o que o administrador pode gerenciar.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">[HTML] Para o desenvolvimento da estrutura do website (front-end) assim como suas funcionalidades visuais foi usado a linguagem HTML. HTML é uma linguagem de marcação utilizada na construção de páginas na Web.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">[CSS] Juntamente com a linguagem HTML o CSS foi utilizado para estilizar, alterando cores, posições e fontes nas páginas produzidas no projeto. Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" width="40" height="40"/></td>
+        <td align="center">[Django] Para o desenvolvimento do back-end foi utilizado o Django, com foco na configuração de rotas de páginas e envio de dados entre elas. Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view.</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+        <td align="center">[Python] Linguagem de programação utilizada no servidor, juntamente ao framework Django. Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.</td>
+    </tr>
+</table>
 
 
 
