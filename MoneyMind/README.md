@@ -6,7 +6,7 @@
 O nomeado Aprendizagem por Projeto Integrador oferecido pela Faculdade de Tecnologia de São José dos Campos, FATEC - Prof° Jessen vidal tem como objetivo fazer com que os alunos acompanhem a evolução e crescimento do mercado atual e aprendam a agir com profissionalidade nessas mudanças.
 
 ## Escopo da Solução
-Nesse semestre o projeto foi realizado com uma empresa parceira (JP Morgan). A empresa parceira solicitou uma ferramenta de comparação de preços usando os dados fornecidos por meio do Open Finance.
+Nesse semestre o projeto foi realizado com uma empresa parceira (grande instituição financeira). A empresa parceira solicitou uma ferramenta de comparação de preços usando os dados fornecidos por meio do Open Finance.
 
 A equipe colocou como objetivo desenvolver uma ferramenta de comparação de preços que utiliza os dados fornecidos pelo Open Finance, e para que esses dados sejam apresentados de maneira intuitiva e fluida para o usuário.
 
